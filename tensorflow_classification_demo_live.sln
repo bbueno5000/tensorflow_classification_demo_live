@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "tensorflow_classification_demo_live", "tensorflow_classification_demo_live\tensorflow_classification_demo_live.pyproj", "{146DE020-8148-4313-A2FB-D2E91FA203B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{146DE020-8148-4313-A2FB-D2E91FA203B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146DE020-8148-4313-A2FB-D2E91FA203B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E8FB506-6795-402E-AC57-66F4FE77A058}
+	EndGlobalSection
+EndGlobal
